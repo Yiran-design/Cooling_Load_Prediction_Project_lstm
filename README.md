@@ -77,7 +77,6 @@ This repository contains:
 - exported metric summaries in JSON format,
 - train/test calendar plots,
 - training-history figures,
-- report drafts and LaTeX files.
 
 ## Reproducibility
 
